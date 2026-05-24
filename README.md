@@ -115,7 +115,7 @@ Me interesa el detalle: desde la arquitectura del backend hasta la última anima
 
 ---
 
-## Formación
+## 🎓 Formación
 
 | Año | Título | Institución |
 |-----|--------|-------------|
@@ -134,7 +134,7 @@ Me interesa el detalle: desde la arquitectura del backend hasta la última anima
 
 ---
 
-## Contacto
+## ✉️ Contacto
 
 <div align="center">
 
